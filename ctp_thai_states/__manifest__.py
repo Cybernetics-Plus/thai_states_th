@@ -11,7 +11,7 @@
 
 {
     "name": "Thailand States (Thai Language)",
-    "version": "16.0.1.0.1",
+    "version": "14.0.1.0.1",
     "summary": """ 
             Thai Localization to include the Thailand States.
             """,
