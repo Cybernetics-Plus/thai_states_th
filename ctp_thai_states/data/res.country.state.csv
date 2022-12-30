@@ -1,0 +1,78 @@
+id,country_id/id,name,code,country_id
+state_th_10,base.th,Bangkok,10,Thailand
+state_th_11,base.th,Samut Prakan,11,Thailand
+state_th_12,base.th,Nonthaburi,12,Thailand
+state_th_13,base.th,Pathum Thani,13,Thailand
+state_th_14,base.th,Phra Nakhon Si Ayutthaya,14,Thailand
+state_th_15,base.th,Ang Thong,15,Thailand
+state_th_16,base.th,Lop Buri,16,Thailand
+state_th_17,base.th,Sing Buri,17,Thailand
+state_th_18,base.th,Chai Nat,18,Thailand
+state_th_19,base.th,Saraburi,19,Thailand
+state_th_20,base.th,Chon Buri,20,Thailand
+state_th_21,base.th,Rayong,21,Thailand
+state_th_22,base.th,Chanthaburi,22,Thailand
+state_th_23,base.th,Trat,23,Thailand
+state_th_24,base.th,Chachoengsao,24,Thailand
+state_th_25,base.th,Prachin Buri,25,Thailand
+state_th_26,base.th,Nakhon Nayok,26,Thailand
+state_th_27,base.th,Sa kaeo,27,Thailand
+state_th_30,base.th,Nakhon Ratchasima,30,Thailand
+state_th_31,base.th,Buri Ram,31,Thailand
+state_th_32,base.th,Surin,32,Thailand
+state_th_33,base.th,Si Sa Ket,33,Thailand
+state_th_34,base.th,Ubon Ratchathani,34,Thailand
+state_th_35,base.th,Yasothon,35,Thailand
+state_th_36,base.th,Chaiyaphum,36,Thailand
+state_th_37,base.th,Amnat Charoen,37,Thailand
+state_th_38,base.th,Bueng Kan,38,Thailand
+state_th_39,base.th,Nong Bua Lam Phu,39,Thailand
+state_th_40,base.th,Khon Kaen,40,Thailand
+state_th_41,base.th,Udon Thani,41,Thailand
+state_th_42,base.th,Loei,42,Thailand
+state_th_43,base.th,Nong Khai,43,Thailand
+state_th_44,base.th,Maha Sarakham,44,Thailand
+state_th_45,base.th,Roi Et,45,Thailand
+state_th_46,base.th,Kalasin,46,Thailand
+state_th_47,base.th,Sakon Nakhon,47,Thailand
+state_th_48,base.th,Nakhon Phanom,48,Thailand
+state_th_49,base.th,Mukdahan,49,Thailand
+state_th_50,base.th,Chiang Mai,50,Thailand
+state_th_51,base.th,Lamphun,51,Thailand
+state_th_52,base.th,Lampang,52,Thailand
+state_th_53,base.th,Uttaradit,53,Thailand
+state_th_54,base.th,Phrae,54,Thailand
+state_th_55,base.th,Nan,55,Thailand
+state_th_56,base.th,Phayao,56,Thailand
+state_th_57,base.th,Chiang Rai,57,Thailand
+state_th_58,base.th,Mae Hong Son,58,Thailand
+state_th_60,base.th,Nakhon Sawan,60,Thailand
+state_th_61,base.th,Uthai Thani,61,Thailand
+state_th_62,base.th,Kamphaeng Phet,62,Thailand
+state_th_63,base.th,Tak,63,Thailand
+state_th_64,base.th,Sukhothai,64,Thailand
+state_th_65,base.th,Phitsanulok,65,Thailand
+state_th_66,base.th,Phichit,66,Thailand
+state_th_67,base.th,Phetchabun,67,Thailand
+state_th_70,base.th,Ratchaburi,70,Thailand
+state_th_71,base.th,Kanchanaburi,71,Thailand
+state_th_72,base.th,Suphan Buri,72,Thailand
+state_th_73,base.th,Nakhon Pathom,73,Thailand
+state_th_74,base.th,Samut Sakhon,74,Thailand
+state_th_75,base.th,Samut Songkhram,75,Thailand
+state_th_76,base.th,Phetchaburi,76,Thailand
+state_th_77,base.th,Prachuap Khiri Khan,77,Thailand
+state_th_80,base.th,Nakhon Si Thammarat,80,Thailand
+state_th_81,base.th,Krabi,81,Thailand
+state_th_82,base.th,Phangnga,82,Thailand
+state_th_83,base.th,Phuket,83,Thailand
+state_th_84,base.th,Surat Thani,84,Thailand
+state_th_85,base.th,Ranong,85,Thailand
+state_th_86,base.th,Chumphon,86,Thailand
+state_th_90,base.th,Songkhla,90,Thailand
+state_th_91,base.th,Satun,91,Thailand
+state_th_92,base.th,Trang,92,Thailand
+state_th_93,base.th,Phatthalung,93,Thailand
+state_th_94,base.th,Pattani,94,Thailand
+state_th_95,base.th,Yala,95,Thailand
+state_th_96,base.th,Narathiwat,96,Thailand
